@@ -1,4 +1,4 @@
 {
   "version": "0.1",
-  "firmware": "https://github.com/rnslab/RSX611/blob/6e6f43f18dbfd6be98987f47b4679c912acfbdec/project2.bin"
+  "firmware": "http://raw.githubusercontent.com/rnslab/RSX611/blob/6e6f43f18dbfd6be98987f47b4679c912acfbdec/project2.bin"
 }
